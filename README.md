@@ -1,0 +1,2 @@
+# njrat
+Uno strumento di amministrazione remota (RAT) è uno strumento programmato che consente a un  dispositivo remoto di controllare un sistema come se avesse accesso fisico a quel sistema. Sebbene la condivisione del desktop e l'amministrazione remota abbiano molti usi legali, il software "RAT" è solitamente associato ad attività non autorizzate o dannose. NjRat è uno dei migliori RAT. Ti consente di accedere a un computer remoto e di eseguire facilmente qualsiasi attività remota. Scarica la versione crackata di njRat v0.8.
